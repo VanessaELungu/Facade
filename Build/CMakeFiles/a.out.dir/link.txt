@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/a.out.dir/SRC/AC.cpp.o CMakeFiles/a.out.dir/SRC/Alarm.cpp.o CMakeFiles/a.out.dir/SRC/Facade.cpp.o CMakeFiles/a.out.dir/SRC/TV.cpp.o CMakeFiles/a.out.dir/SRC/main.cpp.o  -o a.out 
