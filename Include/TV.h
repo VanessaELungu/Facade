@@ -7,6 +7,7 @@ using namespace std;
 
 class TV
 {
+    public:
     void tv_on();
     void tv_off();
 };
